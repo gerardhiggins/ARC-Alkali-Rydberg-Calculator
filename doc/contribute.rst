@@ -14,6 +14,7 @@ This is incomplete list of some of the modules that can be added to the library:
     * Photoionization
     * Collisional cross-sections
     * Tensor polarisability
+    * Allow eigenenergies to be determined from radial wavefunctions, radial wavefunctions should be improved by including the spin-orbit interaction term (3.31) from Aymar, Greene and Luc-Koenig, Rev Mod Phys 68 1015 (1996) in their calculation from the model potential.
     * ... (add your own ideas)
 
 Naming conventions
